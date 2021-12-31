@@ -22,8 +22,8 @@
     }
    
   },
-  "website": "https://github.com/mosety/niuero",
-  "repository": "https://github.com/mosety/niuero",
+  "website": "https://github.com/heout/dddoks",
+  "repository": "https://github.com/heout/dddoks",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
